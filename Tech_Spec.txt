@@ -1,1 +1,7 @@
 NOTE: This entire project is undeployable on the blockchain and, as most of it is physical, it cannot be programmed
+
+However
+
+address communalWallet (to hold the Wolvercoin that is swapped for the site's own currency)
+
+
