@@ -13,6 +13,9 @@ Sellers may choose to accept the highest bid for their item at any time
 Sellers may pay a small fee to be listed on an official auction list
 
 ◾Buying user's interaction with auctions
+Buyers may place a bid on any item they wish provided that their bid is strictly greater than the current highest bid
+Buyers must provide proof of some form that they have sufficient funds to pay their bid
+Upon a successful bid, buyers are responsible for collecting their item from the seller
 
 ◾Oversight over system
 
