@@ -1,5 +1,10 @@
 Auctioning System:
 ◾User interaction with currency
+At any point, users must be able to send wolvercoin to a single wallet address (possibly 0x97d6E73D6710fcF27Dd0cA3b9Db43a2AfA5b9BBB for absolutely no reason) in exchange for a physical representation of their currency, possibly different types of physical paper representing different unit sizes of the currency
+Vice-versa: these pieces of paper may be exchanged with official representatives with access to that wallet in exchange for wolvercoin
+In order to prevent fraudulent creation of these pieces of paper, they must be of sufficient complexity either in form, material, or design such that only the official representatives are able to create new pieces, and that each piece is instantly recognizable as a physical representation of wolvercoin
+
 ◾Buying user's interaction with auctions
 ◾Selling user's interaction with auctions
 ◾Oversight over system
+◾Advantages of this system
