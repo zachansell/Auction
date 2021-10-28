@@ -1,0 +1,5 @@
+Auctioning System:
+◾User interaction with currency
+◾Buying user's interaction with auctions
+◾Selling user's interaction with auctions
+◾Oversight over system
