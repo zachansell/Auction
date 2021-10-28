@@ -6,6 +6,11 @@ All exchanges with the wallet/representatives in question will come at a very sl
 In order to prevent fraudulent creation of these pieces of paper, they must be of sufficient complexity either in form, material, or design such that only the official representatives are able to create new pieces, and that each piece is instantly recognizable as a physical representation of Wolvercoin
 
 ◾Selling user's interaction with auctions
+Users may sell anything they wish
+Sellers must provide an area for buyers to write down their bids
+Sellers may take down/remove their items from auction at any time
+Sellers may choose to accept the highest bid for their item at any time
+Sellers may pay a small fee to be listed on an official auction list
 
 ◾Buying user's interaction with auctions
 
