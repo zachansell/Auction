@@ -18,5 +18,11 @@ Buyers must provide proof of some form that they have sufficient funds to pay th
 Upon a successful bid, buyers are responsible for collecting their item from the seller
 
 ◾Oversight over system
+Official representatives (reps) of the auction system must provide a wallet through which exchanges between Wolvercoin and the paper currency occur
+
 
 ◾Advantages of this system
+Takes natural advantages of governmental justice systems to prevent theft
+Physical currency is not at risk of cyber attacks
+User-friendly for those who are not technologically inclined
+Eco-friendly: less electricity consumption
