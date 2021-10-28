@@ -1,0 +1,1 @@
+NOTE: This entire project is undeployable on the blockchain and, as most of it is physical, it cannot be programmed
