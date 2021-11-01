@@ -4,13 +4,22 @@ However
 
 Objects:
 address communalWallet (to hold the Wolvercoin that is swapped for the site's own currency)
-object autionTokens
+  object autionTokens
 object item
-int price
+  int price
+  int highestBid
 
 Methods:
-swapForAuctionTokens(object wolvercoin)
+communalWallet:
+  swapForAuctionTokens(object wolvercoin)
+    Accepts an amount of Wolvercoin and exchanegs it for auction tokens
+ 
 bid(int currentHighestBid)
-auctionItem(int initialPrice, int time) (method for item object)
-removeAuctionItem() (method for item object)
-acceptHighestBid() (method for item object)
+item class:
+  auctionItem(int initialPrice, int time) (method for item object)
+    Puts an item up for auction
+    Sets the initial price with which to begin bidding and the time to bid on it
+  removeAuctionItem() (method for item object)
+    Removes an item from auction and gives it back to the user
+  acceptHighestBid() (method for item object)
+    Closes the auction and gives the item to the highest bidder
