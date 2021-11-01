@@ -2,6 +2,15 @@ NOTE: This entire project is undeployable on the blockchain and, as most of it i
 
 However
 
+Objects:
 address communalWallet (to hold the Wolvercoin that is swapped for the site's own currency)
+object autionTokens
+object item
+int price
 
-
+Methods:
+swapForAuctionTokens(object wolvercoin)
+bid(int currentHighestBid)
+auctionItem(int initialPrice, int time) (method for item object)
+removeAuctionItem() (method for item object)
+acceptHighestBid() (method for item object)
