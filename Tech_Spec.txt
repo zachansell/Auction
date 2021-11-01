@@ -12,7 +12,7 @@ object item
 Methods:
 communalWallet:
   swapForAuctionTokens(object wolvercoin)
-    Accepts an amount of Wolvercoin and exchanegs it for auction tokens
+    Accepts an amount of Wolvercoin and exchanges it for auction tokens
  
 bid(int currentHighestBid)
 item class:
