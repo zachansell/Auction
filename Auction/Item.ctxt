@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=description
+comment1.target=Item(java.lang.String)
+comment2.params=initialPrice\ time
+comment2.target=boolean\ auctionItem(int,\ int)
+comment3.params=bid\ bidderAddress
+comment3.target=boolean\ bid(int,\ Address)
+numComments=4

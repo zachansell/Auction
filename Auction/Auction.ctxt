@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Auction
+comment1.params=price\ startingPrice
+comment1.target=Auction(int,\ int)
+comment2.params=wolvercoin
+comment2.target=void\ swapForAuctionCoin(java.lang.Object)
+numComments=3
