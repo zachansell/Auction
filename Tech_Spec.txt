@@ -23,3 +23,12 @@ item class:
     Removes an item from auction and gives it back to the user
   acceptHighestBid() (method for item object)
     Closes the auction and gives the item to the highest bidder
+
+auctionItem split into two:
+
+createItem(int initialPrice, int time, String description)
+  create Item object with initialPrice as highestBid, time as block.timestamp + time, and description as String
+
+auctionItem(Item)
+  add Item to Auction array
+  announce that item has been auctioned
